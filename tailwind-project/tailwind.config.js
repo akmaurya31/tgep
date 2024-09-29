@@ -1,6 +1,5 @@
-// tailwind.config.js
 module.exports = {
-  content: ['./index.html', './styles.css'], // Include your HTML files here
+  content: ['./index.html', './video.html', './video-single.html', './styles.css'], // Include all your HTML files
   theme: {
     extend: {},
   },
